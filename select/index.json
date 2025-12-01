@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Friends, Family & God",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2025-12-01T13:59:53.241215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/01_Friends_&_Family_Nav.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "Talib Kweli",
+      "has_synced": true,
+      "path": "select/02_Friends_&_Family_Talib_Kweli.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "Trik Turner",
+      "has_synced": false,
+      "path": "select/03_Friends_&_Family_Trik_Turner.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "Calling All Captains",
+      "has_synced": true,
+      "path": "select/04_Friends_&_Family_Calling_All_Captains.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "Terrorvision",
+      "has_synced": false,
+      "path": "select/05_Friends_&_Family_Terrorvision.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/06_Friends_&_Family_NAV.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "6.6.6. (Friends Family Forever)",
+      "artist": "Death Before Dishonor",
+      "has_synced": true,
+      "path": "select/07_6.6.6._(Friends_Family_Forever)_Death_Before_Dishonor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FRIENDS & FAMILY",
+      "artist": "OBLADAET",
+      "has_synced": true,
+      "path": "select/08_FRIENDS_&_FAMILY_OBLADAET.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "The Isley Brothers feat. Ronald Isley & Snoop Dogg",
+      "has_synced": true,
+      "path": "select/09_Friends_&_Family_The_Isley_Brothers_feat._Ronald_Isley_&_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "The Isley Brothers",
+      "has_synced": true,
+      "path": "select/10_Friends_&_Family_The_Isley_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "Rusty Clanton",
+      "has_synced": false,
+      "path": "select/11_Friends_&_Family_Rusty_Clanton.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "Trik Turner",
+      "has_synced": false,
+      "path": "select/12_Friends_&_Family_Trik_Turner.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "The Isley Brothers, Ronald Isley, Snoop Dogg",
+      "has_synced": true,
+      "path": "select/13_Friends_&_Family_The_Isley_Brothers,_Ronald_Isley,_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Friends & Family",
+      "artist": "Trik Turner",
+      "has_synced": true,
+      "path": "select/14_Friends_&_Family_Trik_Turner.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Friends & Family Ft. Snoop Dogg",
+      "artist": "Ronald Isley",
+      "has_synced": true,
+      "path": "select/15_Friends_&_Family_Ft._Snoop_Dogg_Ronald_Isley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Friends, Family & God",
+      "artist": "Kvi Baba, G-k.i.d, KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Friends,_Family_&_God_Kvi_Baba,_G-k.i.d,_KEIJU.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Friends, Family & God (feat. G-k.i.d & KEIJU)",
+      "artist": "Kvi Baba, G-k.i.d, KEIJU",
+      "has_synced": false,
+      "path": "select/pl_02_Friends,_Family_&_God_(feat._G-k.i.d_&_KEIJU)_Kvi_Baba,_G-k.i.d,_KEIJU.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Friends, Family & God",
+      "artist": "Kvi Baba, G-k.i.d, KEIJU",
+      "has_synced": false,
+      "path": "select/pl_03_Friends,_Family_&_God_Kvi_Baba,_G-k.i.d,_KEIJU.txt"
+    }
+  ]
+}
